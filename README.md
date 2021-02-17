@@ -1,7 +1,7 @@
 ## Cordova KochavaTracker
 The Kochava Cordova/Phonegap SDK is a lightweight plugin which can be easily integrated into your Cordova project.
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Kochava/Cordova-KochavaTracker-Releases?include_prereleases)
+[![Download](https://img.shields.io/github/v/release/Kochava/Cordova-KochavaTracker-Releases?include_prereleases&sort=semver)](https://github.com/Kochava/Cordova-KochavaTracker-Releases/releases)
 
 ### Installation
 [Cordova - SDK Integration](https://support.kochava.com/sdk-integration/cordova-sdk-integration/)
